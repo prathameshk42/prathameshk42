@@ -1,17 +1,15 @@
 <h1 align="center">Hi there, I'm Prathamesh! 👋</h1>
-<h3 align="center">🚀 AI | Cloud | Web Development Enthusiast</h3>
+<h3 align="center">🚀 AI | Cloud | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=AI+%7C+Cloud+%7C+Full-Stack+Developer;Passionate+about+building+smart+solutions;Turning+ideas+into+reality+with+code!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=🚀+Turning+Ideas+into+Reality+with+Code!;🤖+Passionate+about+AI%2C+Cloud%2C+Web+Development;💡+Building+Smart+Solutions+that+Matter!">
 </p>
 
 ---
 
-🎓 **Currently pursuing Master's in Computer Science** at the **University of Texas at Arlington**  
-🔥 **Passionate about AI, Cloud Computing, and Web Development**  
-💡 Always **exploring new technologies** and building **scalable, impactful solutions**  
-📚 **AWS Certified Machine Learning – Specialty (In Progress)**  
-🌍 **Open-source enthusiast** | Love solving real-world problems with technology  
+🎓 **Pursuing Master's in Computer Science** at **University of Texas at Arlington**  
+🔥 **Tech enthusiast** who loves **solving problems and optimizing performance** 
+💻 **When not coding, you'll find me exploring new tech trends or binging on great food!** 🍕☕  
 
 ---
 
@@ -26,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ☁️ **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 🤖 **Machine Learning & AI:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -50,8 +48,15 @@
 
 ---
 
+## ✨ **Fun Facts About Me!**
+🎮 **Gaming and tech geek** who loves exploring new gadgets!  
+🎥 Movie nights & binge-watching documentaries 📺  
+🏔️ Always up for **travel, adventure, and spontaneous trips**!  
+
+---
+
 ## 🚀 **Let's Connect!**
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/prathameshk42/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:prathameshk42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
