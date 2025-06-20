@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Prathamesh! 👋</h1>
-<h3 align="center">🚀 AI | Cloud | Full-Stack Developer</h3>
+<h3 align="center">🚀 AI/ML | Data Analyst | Cloud | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=🚀+Turning+Ideas+into+Reality+with+Code!;🤖+Passionate+about+AI%2C+Cloud%2C+Web+Development;💡+Building+Smart+Solutions+that+Matter!">
@@ -9,7 +9,7 @@
 
 🎓 **Computer Science** Graduate From **University of Texas at Arlington**  
 🔥 **Tech enthusiast** who loves **solving problems and optimizing performance**  
-💻 **When not coding, you'll find me exploring new tech trends or binging on great food!** 🍕☕  
+💻 **When not coding, you'll find me exploring new tech trends in AI or binging on great food!** 🍕☕  
 
 ---
 
