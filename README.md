@@ -7,7 +7,7 @@
 
 ---
 
-🎓 **Pursuing Master's in Computer Science** at **University of Texas at Arlington**  
+🎓 **Computer Science** Graduate From **University of Texas at Arlington**  
 🔥 **Tech enthusiast** who loves **solving problems and optimizing performance**  
 💻 **When not coding, you'll find me exploring new tech trends or binging on great food!** 🍕☕  
 
@@ -51,5 +51,5 @@
 ## 🚀 **Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/prathameshkorale/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:prathameshnew8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:prathamesh.hkorale@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
