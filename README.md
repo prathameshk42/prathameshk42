@@ -10,7 +10,7 @@
 🎓 **Computer Science** Graduate From **University of Texas at Arlington**  
 🔥 **Tech enthusiast** who loves **solving problems and optimizing performance**  
 💻 **When not coding, you'll find me exploring new tech trends in AI or binging on great food!** 🍕☕  
-
+ 
 ---
 
 ## 🚀 **Tech Stack & Tools**
